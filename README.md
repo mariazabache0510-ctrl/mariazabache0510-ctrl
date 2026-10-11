@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff4f9a,55:a78bfa,100:22d3ee&text=Mariana%20Azabache&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Junior%20Software%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Mariana Azabache · Junior Software Developer" width="100%"/>
 
-<a href="https://www.linkedin.com/in/mariana-azabache-b1334b371/"><img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=19&duration=3000&pause=900&color=FF4F9A&center=true&vCenter=true&width=640&lines=Junior+Software+Developer+%C2%B7+Open+to+work;Coding+since+15+%C2%B7+Programando+desde+los+15;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+PHP;Espa%C3%B1ol+nativo+%C2%B7+English+B2" alt="Junior Software Developer"/></a>
+<a href="linkedin.com/in/mariana-azabache"><img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=19&duration=3000&pause=900&color=FF4F9A&center=true&vCenter=true&width=640&lines=Junior+Software+Developer+%C2%B7+Open+to+work;Coding+since+15+%C2%B7+Programando+desde+los+15;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+PHP;Espa%C3%B1ol+nativo+%C2%B7+English+B2" alt="Junior Software Developer"/></a>
 
 <p>
 <img src="https://img.shields.io/badge/Colombia-FFCD00?style=flat-square&logo=googlemaps&logoColor=black" alt="Colombia"/>
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/UNIMINUTO-Desarrollo_de_Software-ff4f9a?style=flat-square&logo=bookstack&logoColor=white" alt="UNIMINUTO"/>
 </p>
 
-<a href="https://www.linkedin.com/in/mariana-azabache-b1334b371/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="linkedin.com/in/mariana-azabache"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:mariazabache0510@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/mariazabache0510-ctrl?tab=repositories"><img src="https://img.shields.io/badge/Proyectos_·_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Proyectos"/></a>
 
@@ -212,7 +212,7 @@ Proyectos personales de desarrollo web, bases de datos y despliegue.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-azabache-b1334b371/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/mariana-azabache)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariazabache0510@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariazabache0510-ctrl)
 
@@ -410,7 +410,7 @@ Personal projects in web development, databases and deployment.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-azabache-b1334b371/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/mariana-azabache)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariazabache0510@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariazabache0510-ctrl)
 
